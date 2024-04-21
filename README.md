@@ -10,9 +10,9 @@
 
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmlkZm43cXBjbzJiM2VwYXpkejVzZ3kzbGdmZTlkeGFjb21hNmVneSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🔭 I’m currently working on **🧟‍♂Resident Evil village Motivated Mini Project Prototype**
+- 🔭 I’m currently working on **Cauldron ,A Multiplayer Shooter**
 
-- 🌱 I’m currently learning **🗼Server Side Rewind**
+- 🌱 I’m currently learning **🗼GameAbility System**
 
 - 👯 I’m looking to collaborate on **🎮Game oriented projects(Unreal Engine)**
 

@@ -1,5 +1,5 @@
 [![MasterHead](https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif)
-<h1 align="center">Hi 👋, I'm ░▒▓█C⃒0M⃒P⃒I⃒11E⃒R⃒█▓▒░</h1>
+<h1 align="center">Hi 👋, I'm C⃒0M⃒P⃒I⃒11E⃒R⃒</h1>
 <h3 align="center">-I Am An•𝗨𝗻𝗿𝗲𝗮𝗹 𝗘𝗻𝗴𝗶𝗻𝗲 ⚙️ & 𝗖++ 𝗘𝗻𝘁𝗵𝘂𝘀𝗶𝗮𝘀𝘁-</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=c0mpi11er&label=Profile%20views&color=0e75b6&style=plastic" alt="c0mpi11er" /> </p>
@@ -20,7 +20,7 @@
 
 - 👨‍💻 All of my projects are available at [https://c0mpi11er.itch.io/)
 
-- 💬 Ask me about **📟C++,𝗨𝗻𝗿𝗲𝗮𝗹 𝗘𝗻𝗴𝗶𝗻𝗲 ⚙️,🎯Git-Bash,🔮Blender.**
+- 💬 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/C0mpi11er/) **📟C++,𝗨𝗻𝗿𝗲𝗮𝗹 𝗘𝗻𝗴𝗶𝗻𝗲 ⚙️,🎯Git-Bash,🔮Blender.**
 
 - 📫 How to reach me **c0mpi11er47@gmail.com**
 
@@ -43,3 +43,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=c0mpi11er&show_icons=true&theme=dracula&hide_border=true&locale=en" alt="c0mpi11er" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=c0mpi11er&theme=dark" alt="c0mpi11er" /></p>
+
+[![Atom](https://badgen.net/badge/icon/atom?icon=atom&label)](https://atom.io)
+[![git](https://img.shields.io/badge/--F05032?logo=git&logoColor=ffffff)](http://git-scm.com/)
